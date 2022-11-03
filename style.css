@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(68, 118, 118);
+    height: 500px;
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.main>h3{
+    text-align: center;
+    color: goldenrod;
+}
+#outputText{
+    text-align: center;
+    text-decoration:sienna;
+    
+}
